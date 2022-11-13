@@ -1,0 +1,22 @@
+div.output {
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+}
+
+td, th {
+    border: 1px solid rgb(190,190,190);
+    padding: 20px 20px;
+}
+
+button.newGame {
+    position: relative;
+    top: 10px;
+    border-color: black;
+}
